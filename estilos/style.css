@@ -37,9 +37,10 @@ iframe#tela{
     width: 269px;
 }
 section#redes-sociais{
-    text-align: right;
+    float: right;
 }
 section#redes-sociais img{
+    display: block;
     width: 60px;
     margin: 15px;
     border-radius: 50%;
